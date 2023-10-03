@@ -1,0 +1,68 @@
+h2 span {
+
+  color:  #EE24FF;  
+
+}
+
+#life{
+    color: #828282;
+
+}
+
+footer, strong, h2{
+
+    color: #3F3D56;
+}
+
+h2{
+    font-family: 'Dosis', sans-serif;
+}
+
+body{
+   font-family : 'Open Sans', sans-serif;
+   text-align: center;
+
+   margin: 0 auto 0;
+}
+
+
+span{
+
+    font-weight:bolder;
+    font-family: 'Dosis', sans-serif;
+}
+
+#img1{
+
+    margin-bottom: 32px;
+    margin-top: 64px;
+}
+ 
+#ff{
+   margin-top: 72px;
+    margin-bottom: 32px;
+    text-decoration: none;
+    
+}
+
+#img2{
+    margin: 0 300 0px;
+
+
+}
+p span{
+
+    font-family: 'Open Sans', sans-serif;
+}
+
+
+a{
+    text-decoration: none;
+    font-family: 'Open Sans', sans-serif;
+    color: #3F3D56;
+}
+
+
+
+
+
